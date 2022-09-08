@@ -21,8 +21,8 @@ feature:
     icon_pack: fab
     name: Python
   - description: 100%
-    icon: subscript
-    icon_pack: far
+    icon: square-root-variable
+    icon_pack: fas
     name: Mathematics
   - description: 100%
     icon: chart-column
