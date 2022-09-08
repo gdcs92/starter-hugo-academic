@@ -21,11 +21,11 @@ feature:
     icon_pack: fab
     name: Python
   - description: 100%
-    icon: function
+    icon: subscript
     icon_pack: fas
     name: Mathematics
   - description: 100%
-    icon: chart-scatter-3d
+    icon: chart-column
     icon_pack: far
     name: Data Science
 
