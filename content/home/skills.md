@@ -22,11 +22,11 @@ feature:
     name: Python
   - description: 100%
     icon: subscript
-    icon_pack: fas
+    icon_pack: far
     name: Mathematics
   - description: 100%
     icon: chart-column
-    icon_pack: far
+    icon_pack: fas
     name: Data Science
 
 # Uncomment to use emoji icons.
